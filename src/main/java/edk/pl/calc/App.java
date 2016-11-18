@@ -10,6 +10,7 @@ public class App
 {
     public static void main( String[] args )
     {
+    	/////// komentarz
     	@SuppressWarnings("resource")
 		Scanner Wejsciowe = new Scanner(System.in);
         int menu = 0;
